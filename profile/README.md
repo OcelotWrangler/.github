@@ -1,3 +1,5 @@
+## Hi there 👋
+
 Ocelot Wrangler is a software company based out of central North Carolina, USA. We were started by [Donnie Barnes](https://donniebarnes.com), an 
 entrepreneur since he graduated from [NC State](https://ncsu.edu) in 1995 with a degree in Computer Engineering. Donnie is best known for being the 
 first technical employee hired at [Red Hat](https://redhat.com), a software company that was acquired by [IBM](https://ibm.com) in 2021 for $34B. 
